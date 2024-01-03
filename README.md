@@ -1,4 +1,4 @@
-# Snake-Game 🐍
+# Snake-Game :snake:
 **Overview**
 * This is a simple implementation of the classic Snake game in HTML, CSS, and JavaScript . The game is played on the console and provides a nostalgic gaming experience. The objective is to control the snake, eat the food, and avoid collisions with the walls and the snake itself.
 
